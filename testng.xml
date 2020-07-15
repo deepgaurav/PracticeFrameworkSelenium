@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"  >
+    <test verbose="2" preserve-order="true" name="C:/Users/shipra.parihar/NewUISirion">
+        <classes>
+            <class name="com.sirion.qa.testcases.LoginTest"/>
+            <class name="com.sirion.qa.testcases.ListingPageTest"/>
+           <!--  <methods>
+                    <include name="LoginPageTitle"/>
+                    <include name="SignInUsingemail"/>
+                </methods>-->
+
+        </classes>
+    </test>
+</suite>

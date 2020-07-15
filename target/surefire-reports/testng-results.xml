@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-11T17:56:56 IST" name="All Test Suite" finished-at="2020-06-11T17:57:10 IST" duration-ms="14024">
+    <groups>
+    </groups>
+    <test started-at="2020-06-11T17:56:56 IST" name="C:/Users/shipra.parihar/NewUISirion" finished-at="2020-06-11T17:57:10 IST" duration-ms="14024">
+      <class name="com.sirion.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.sirion.qa.testcases.LoginTest@46268f08]" started-at="2020-06-11T17:56:56 IST" name="setup" finished-at="2020-06-11T17:57:07 IST" duration-ms="10470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPageTitle()[pri:0, instance:com.sirion.qa.testcases.LoginTest@46268f08]" started-at="2020-06-11T17:57:07 IST" name="LoginPageTitle" finished-at="2020-06-11T17:57:07 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitle -->
+        <test-method signature="SignInUsingemail()[pri:0, instance:com.sirion.qa.testcases.LoginTest@46268f08]" started-at="2020-06-11T17:57:07 IST" name="SignInUsingemail" finished-at="2020-06-11T17:57:10 IST" duration-ms="2763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInUsingemail -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.sirion.qa.testcases.LoginTest@46268f08]" started-at="2020-06-11T17:57:10 IST" name="TearDown" finished-at="2020-06-11T17:57:10 IST" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.sirion.qa.testcases.LoginTest -->
+    </test> <!-- C:/Users/shipra.parihar/NewUISirion -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
