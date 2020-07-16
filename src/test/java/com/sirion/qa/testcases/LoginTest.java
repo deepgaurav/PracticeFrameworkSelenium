@@ -64,6 +64,7 @@ public class LoginTest extends TestBase {
     @Test
     public void SignInUsingemail(){
         loginpage.validateLoginFunctionality() ;
+        System.out.println("Test");
 
 
 
